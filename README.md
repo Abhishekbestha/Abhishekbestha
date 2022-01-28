@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java,python,etc**
 
-- 👨‍💻 All of my projects are available at [bsabhishek.site](https://bsabhishek.site)
+- 👨‍💻 All of my projects are available at [bsabhishek.site](https://bsabhishek.site/Project-s-a3a23913bcd2412590dc6b31aa0d4728)
 
 - 📫 How to reach me **Abhishek.bestha@gmail.com**
 
