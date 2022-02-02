@@ -1,5 +1,5 @@
 <section id="introduction">
-  <img align="right" alt="GIF" width="45%" src="https://github.com/Abhishekbestha/Abhishekbestha/blob/main/Gif/My%20gif.gif" />
+  <img align="right" alt="GIF" width="45%" src="https://github.com/Abhishekbestha/Abhishekbestha/blob/main/works/1.gif" />
   <h1>Hello 👋🏻,<br>I'm 
   <a style="font-size: 2rem;" href="https://bsabhishek.site">B S Abhishek</a>
   </h1>
