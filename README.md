@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Java,python,etc**
 
-- 👨‍💻 All of my projects are available at [bsabhishek.site](https://bsabhishek.site/Project-s-a3a23913bcd2412590dc6b31aa0d4728)
+- 👨‍💻 All of my projects are available at [www.bsabhishek.site](https://bsabhishek.site/Project-s-a3a23913bcd2412590dc6b31aa0d4728)
 
 - 📫 How to reach me **Abhishek.bestha@gmail.com**
 
-- 📄 Know about my experiences [bsabhishek.site](https://bsabhishek.site)
+- 📄 Know about my experiences [www.bsabhishek.site](https://bsabhishek.site)
 
 - ⚡ Fun fact **Love to travel.**
 
