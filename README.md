@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [www.bsabhishek.site](https://bsabhishek.site)
 
-- 📫 How to reach me **Abhishek.bestha@gmail.com**
+- 📫 How to reach me **bsAbhishek2611@gmail.com**
 
 - 📄 Know about my experiences [www.bsabhishek.site](https://www.bsabhishek.site)
 
