@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in **eMudhra**
 
-- 🌱 I’m currently learning **Java,python,etc**
+- 🌱 I’m currently a **Java Developer**
 
 - 👨‍💻 All of my resources are available at [Notion](https://www.notion.so/bsabhishek/Learning-Hub-ace3e3aa8d1f401bb681c70053e8609d)
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [www.bsabhishek.site](https://www.bsabhishek.site)
 
-- ⚡ Fun fact **Love to travel.**
+- ⚡ Fun fact **Love to code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
