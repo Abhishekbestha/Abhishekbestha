@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java,python,etc**
 
-- 👨‍💻 All of my projects are available at [Notion](https://www.notion.so/bsabhishek/Learning-Hub-ace3e3aa8d1f401bb681c70053e8609d)
+- 👨‍💻 All of my resources are available at [Notion](https://www.notion.so/bsabhishek/Learning-Hub-ace3e3aa8d1f401bb681c70053e8609d)
 
 - 📫 How to reach me **bsAbhishek2611@gmail.com**
 
